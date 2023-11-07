@@ -1,0 +1,26 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is my deep learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayush9974/namaste-react.git"
+  },
+  "keywords": [
+    "Namste",
+    "React"
+  ],
+  "author": "Ayush Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayush9974/namaste-react/issues"
+  },
+  "homepage": "https://github.com/ayush9974/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.10.2"
+  }
+}
