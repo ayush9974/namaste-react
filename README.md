@@ -7,3 +7,4 @@ namaste react from local machine
 5.  npm init => to ignite our app , it create package.json file
 6.  package.json contains the configuration of npm
 7.  Bundler used to compress our files or to bundled together before moving to production ex: parcel, webpack
+8.  .gitignore => files that we can recreate are put inside gitignore so that they do not move to git
